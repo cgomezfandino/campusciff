@@ -16,5 +16,12 @@
 |Angello Rodriguez              |AngelloXtr	        |
 |Oscar Pulido	                |oscarpulido55	        |
 |Andres Salamanca               |andressalamanca        |
+|Susana				|Susahg			|
+|Carlos Eduardo Gomez		|Cgomezfandino		|
+|Dan				|Danciff		|
+|Ivan				|ivtransgruaortiz	|
+
+
+
 
 
